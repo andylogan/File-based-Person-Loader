@@ -1,0 +1,9 @@
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+
+namespace Project1.Tests
+{
+    [TestClass]
+    public class FileLoader_tests : TestBase
+    {
+    }
+}
